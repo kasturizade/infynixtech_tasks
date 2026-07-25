@@ -1,30 +1,30 @@
-# InfynixTech_HangmanGame
+# InfynixTech_BasicChatbot
 
-## Task 1: Hangman Game
+## Task 4: Basic Chatbot
 
-A simple text-based Hangman game developed using Python.
+A simple rule-based chatbot created using Python.
 
 ## Features
 
-- Uses a predefined list of 5 words
-- Randomly selects a hidden word
-- Allows the player to guess one letter at a time
-- Maximum 6 incorrect guesses
-- Console-based interface
+- Responds to greetings
+- Responds to "how are you"
+- Responds to "what is your name"
+- Exits when the user types "bye"
+- Uses predefined responses
 
 ## Concepts Used
 
-- Python random module
-- while loop
-- if-else conditions
-- Strings
-- Lists
+- if-elif conditions
+- Functions
+- while loops
+- User input
+- Output
 
 ## How to Run
 
 Run the following command:
 
-python hangman.py
+python chatbot.py
 
 ## Author
 
